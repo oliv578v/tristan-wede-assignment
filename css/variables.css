@@ -1,0 +1,37 @@
+:root {
+  /* Colors */
+  --background-color-dark: #2b2d42;
+  --text-color-light: #ffffff; 
+  --text-color-dark: #000000;
+  --text-color-yellow: #f8c471;
+  --background-color-lightblue:rgb(59, 93, 132);
+  --background-color-red: maroon;
+  
+  /* Layout and Spacing */
+  --padding: 1.5rem;
+  --margin: 0.9375rem; 
+  --font-size-small: 0.75rem; 
+  --font-size-medium: 1rem; 
+  --font-size-large: 2rem; 
+  --line-height: 1.6; 
+  --marginSmall:0.5rem;
+  --marginBig: 1rem;
+  
+  /* Font family */
+  --font-family: "Poppins", serif;;
+  
+  /* Header */
+  --header-font-size-title: 2rem; 
+  --header-font-size-subtitle: 1.2rem; 
+  --dropdown-bg: #ffffff; 
+  --dropdown-text: #000000; 
+  --dropdown-padding: 0.3rem;
+  --dropdown-radius: 0.25rem; 
+  --nav-gap: 1rem; 
+  --nav-font-size: 1.2rem; 
+  --nav-font-weight: bold; 
+  
+  /* Footer */
+  --footer-font-size: 0.75rem; 
+  --icon-size: 2.5rem; 
+}
